@@ -1,5 +1,10 @@
 <h1> How to use </h1>
 
+* This repository was created for Machine Learning Class
+* The porpouse is to transform image into binary arrays (0,1) or (-1, 1)
+
+
+
 ```bash
 BitMap.py digitTestData/
 ```
